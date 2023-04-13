@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aleksandr-Rozhok, I am 26 years old, originally from Mozyr. Now I live in Minsk.
 - 👀 I’m interested in movies, some music, books, programming and jogging
-- 🌱 I’m currently learning SAPUI5, Fiori Elements, BTP and JS
+- 🌱 I’m currently learning React, Redux, TS, SAPUI5, Fiori Elements, BTP and JS
 - 📫 You can contact me by email: aliaksandr.razhok@leverx.com, akkelaforest@gmail.com
 
 
