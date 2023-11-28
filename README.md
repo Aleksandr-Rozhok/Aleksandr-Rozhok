@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Aleksandr-Rozhok, I am 26 years old, originally from Mozyr. Now I live in Minsk.
+- 👋 Hi, I’m @Aleksandr-Rozhok, I am 27 years old, originally from Mozyr. Now I live in Minsk.
 - 👀 I’m interested in movies, some music, books, programming and jogging
 - 🌱 I’m currently learning React, Redux, TS, SAPUI5, Fiori Elements, BTP and JS
+- 🧑‍🎓 American University of the People student
 - 📫 You can contact me by email: aliaksandr.razhok@leverx.com, akkelaforest@gmail.com
 
 
